@@ -67,6 +67,9 @@ https://github.com/fygrave/cuckoodroid
 https://github.com/idanr1986/cuckoo
 
 ## Misc
+- #### Linux malware analysis based on Cuckoo Sandbox
+https://github.com/0x71/cuckoo-linux
+
 - #### A python script to auto-generate STIX content from Cuckoo's reports stored in Mongodb
 https://github.com/blackhole-em/cuckoo2STIX
 
@@ -88,5 +91,17 @@ http://vmcloak.org/
 - #### Cuckoo - elasticsearch
 https://github.com/drainware/elastic-cuckoo
 
-- #### The new Cuckoo Monitor
-https://github.com/jbremer/monitor
+- #### CuckooTool
+https://github.com/laincode/CuckooTool
+
+- #### A lite version of cuckoo-sandbox, with all dynamic/behavioral analysis removed.
+https://github.com/theopolis/cuckoo-lite
+
+- #### Cuckoo REST API client for Python.
+https://github.com/nilp0inter/cuckooapi
+
+- #### Cuckoo Sandbox Dockerfile
+https://github.com/blacktop/docker-cuckoo
+
+- #### Another Cuckoo fork
+https://github.com/informationinsecurity/Modified_Cuckoo
